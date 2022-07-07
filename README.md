@@ -4,3 +4,4 @@
 ### 3. Phần text ở các ô cần căn giữa theo `chiều dọc` (Nếu chưa rõ nhắn vào zalo để hỗ trợ)
 ### 4. Theo `chiều ngang `ô thì nếu text chỉ có dưới 3 từ thì căn giữa, có nhiều hơn 3 từ thì căn lề trái
 ### 5. Để thống nhất cỡ chữ 14, font chữ Time New Roman
+### 6. Hạn chế để trường hợp `chữ cô đơn` (Tức là 1 số dòng chỉ có mỗi 1 chữ) => căn chỉnh kích thước cột hợp lý
